@@ -13,4 +13,9 @@ json自动传送（自定义传送）教程：https://docs.qq.com/doc/DTFFHRXRlT
 Acrepi中文使用教程：https://www.kdocs.cn/l/clbwQmVi3djK （目前Acrepi免费）
 
 
+目前参数版本：
+Bkebi：V1
+Acrepi：None
+HR：None
+..............
 
