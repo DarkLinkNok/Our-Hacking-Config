@@ -209,10 +209,9 @@
                     "FpsShow": false
                 },
                 "MenuKey": 192,
-                "SelectedModule": 6,
+                "SelectedModule": 5,
                 "Theme": {
-                    "FontSize": 18,
-                    "ShowStyleEditor": true
+                    "FontSize": 18
                 }
             },
             "GodMode": {
@@ -267,7 +266,7 @@
             },
             "MapTeleport": {
                 "Enabled": {
-                    "toggled": true,
+                    "toggled": false,
                     "value": 85
                 }
             },
@@ -303,6 +302,12 @@
             "OculiTeleport": {
                 "Key": 219
             },
+            "OpenTeam": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
             "QuestTeleport": {
                 "Key": 186,
                 "QuestTP": {
@@ -331,6 +336,9 @@
                     "Language": "SimplifiedChinese"
                 }
             },
+            "SkipEnhanceAnimation": {
+                "Enabled": true
+            },
             "Visuals": {
                 "ChestIndicator": {
                     "Enabled": {
@@ -346,13 +354,14 @@
                 },
                 "ProfileChanger": {
                     "Enabled": {
-                        "toggled": false,
+                        "toggled": true,
                         "value": null
                     },
                     "UID": {
-                        "toggled": false,
+                        "toggled": true,
                         "value": "114514"
-                    }
+                    },
+                    "UIDsize": 16
                 }
             }
         },
@@ -741,6 +750,10 @@
                     "completed_points": {
                         "3": {
                             "17": [
+                                {
+                                    "complete_timestamp": 1677154732755,
+                                    "point_id": 4745
+                                },
                                 {
                                     "complete_timestamp": 1676891187579,
                                     "point_id": 4852
