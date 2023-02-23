@@ -1,4 +1,5 @@
-# Hacking-Config    
+# Hacking-Config   
+蓝奏云文件夹：https://wweb.lanzoum.com/b01wewvsj 密码:kebi
 参数配置#Genshin Impact
 BkebiDiscord————https://discord.gg/bkebi   （目前Bkebi免费）
 AcrepiDiscord————https://discord.gg/acrepi  （目前Acrepi免费）
