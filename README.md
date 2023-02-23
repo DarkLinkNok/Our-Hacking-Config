@@ -2,6 +2,7 @@
 参数配置#Genshin Impact
 BkebiDiscord————https://discord.gg/bkebi   （目前Bkebi免费）
 AcrepiDiscord————https://discord.gg/acrepi  （目前Acrepi免费）
+什么？你说打不开discord？这里推荐一个免费的vpn，它的名字叫安易加速器Anyi，注册随便输个邮箱和密码就好,Bing搜索安易加速器。
 
 注意：使用本配置主为辅助作用，节省时间以及不必要的开支消耗，请不要沉迷开挂，不要打扰其他人的正常游玩，建议在元素地图加载界面时不要打开Bkebi功能菜单。
 
