@@ -15,7 +15,7 @@ Acrepi中文使用教程：https://www.kdocs.cn/l/clbwQmVi3djK （目前Acrepi�
 
 
 目前参数版本：
-Bkebi：V1
+Bkebi：V1.1
 Acrepi：None
 HR：None
 ..............
