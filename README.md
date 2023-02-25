@@ -15,7 +15,7 @@ Acrepi中文使用教程：https://www.kdocs.cn/l/clbwQmVi3djK （目前Acrepi�
 
 
 目前参数版本：
-Bkebi：V1.2 （目前先别使用Bkebi了，我于14点已ban7天。）
+Bkebi：V1.2 
 Acrepi：V1.0
 HR：None
 ..............
