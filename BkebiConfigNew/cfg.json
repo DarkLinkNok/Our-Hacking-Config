@@ -1,0 +1,1077 @@
+{
+    "current_profile": "SingleMode",
+    "profiles": {
+        "DeepsMode": {
+            "General": {
+                "FPS": {
+                    "FpsMove": true
+                },
+                "MenuKey": 192,
+                "SelectedModule": 8
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PacketReplacement": true
+            },
+            "KillAura": {
+                "AttackDelay": 1000,
+                "DamageMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": 88
+                },
+                "PercentDamageMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PercentDamageTimes": 15,
+                "Range": 8.0,
+                "RepeatDelay": 2000
+            },
+            "Settings": {
+                "Language": {
+                    "Language": "SimplifiedChinese"
+                }
+            }
+        },
+        "MultiMode": {
+            "AutoFish": {
+                "DelayBeforeCatch": 3000,
+                "DelayBeforeRecast": 700,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTalk": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "SkipCutscene": false
+            },
+            "ESP": {
+                "DrawDistance": true,
+                "DrawHealth": true,
+                "DrawName": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Fill": true,
+                "FillTransparency": 1.0,
+                "Filters": {
+                    "Chest": {
+                        "Common Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Crude Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Exquisite Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Luxurious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Precious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Remarkable Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Featured": {
+                        "Anemoculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Crimson Agate": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Dendroculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Electroculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Geoculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Item Drops": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Key Sigil I": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Lumenspar": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Sacred Seal": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Shrine Of Depth": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Time Trial Challenge": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    }
+                },
+                "GlobalBoxColor": {
+                    "toggled": true,
+                    "value": 4278190080
+                },
+                "GlobalFontColor": {
+                    "toggled": true,
+                    "value": 4294967295
+                },
+                "GlobalLineColor": {
+                    "toggled": true,
+                    "value": 4278190335
+                },
+                "GlobalRectColor": {
+                    "toggled": true,
+                    "value": 4288100367
+                },
+                "HideCompleted": true,
+                "MiddleScreenTracer": true,
+                "Range": 200.0
+            },
+            "General": {
+                "FPS": {
+                    "FpsMove": true
+                },
+                "MenuKey": 192,
+                "SelectedModule": 5
+            },
+            "GodMode": {
+                "Conditional": true,
+                "MinHealth": 20.0
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PacketReplacement": true
+            },
+            "NoCD": {
+                "AbilityReduce": {
+                    "toggled": true,
+                    "value": null
+                },
+                "TimerReduce": 3.0,
+                "UtimateMaxEnergy": {
+                    "toggled": false,
+                    "value": 88
+                }
+            },
+            "NoClip": {
+                "AntiDragBack": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "OpenTeam": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "RapidFire": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": 90
+                },
+                "MultiHit": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "Settings": {
+                "Language": {
+                    "Language": "SimplifiedChinese"
+                }
+            },
+            "SkipEnhanceAnimation": {
+                "Enabled": true
+            },
+            "Visuals": {
+                "EnablePeeking": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    }
+                },
+                "NoFog": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    }
+                },
+                "ProfileChanger": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    },
+                    "UID": {
+                        "toggled": true,
+                        "value": "<color=#09ab98>B</color><color=#18a08f>k</color><color=#289685>e</color><color=#378b7c>b</color><color=#478072>i</color><color=#567669>#</color><color=#656b5f>L</color><color=#756056>i</color><color=#84564c>n</color><color=#934b43>k</color><color=#a34039>C</color><color=#b23530>o</color><color=#c22b26>n</color><color=#d1201d>f</color><color=#e01513>i</color><color=#f00b0a>g</color>"
+                    },
+                    "UIDWaterMarkPrefix": true
+                }
+            }
+        },
+        "NoneMode": {
+            "General": {
+                "FPS": {
+                    "FpsMove": true
+                },
+                "MenuKey": 192,
+                "SelectedModule": 8
+            },
+            "Settings": {
+                "Language": {
+                    "Language": "SimplifiedChinese"
+                }
+            }
+        },
+        "SingleMode": {
+            "About": {
+                "IsFirstTime": false
+            },
+            "Auto Puzzle": {
+                "BloattyFloatty": true,
+                "DailyCommission": true,
+                "DeathZonePoint": true,
+                "Delay": 2500,
+                "DendroPile": true,
+                "DendroRock": true,
+                "ElectroSeelie": true,
+                "ElemTablet": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "GeoPuzzle": true,
+                "LightningStrikeProbe": true,
+                "ParametricTransformer": true,
+                "Plants": true,
+                "Range": 35.0,
+                "Seelie": true,
+                "SumeruPuzzles": true,
+                "TorchPuzzle": true,
+                "WindSlime": true,
+                "WindmillMechanism": true
+            },
+            "AutoCook": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "FastProficiency": {
+                    "toggled": false,
+                    "value": null
+                },
+                "QualityField": {
+                    "name": "Delicious",
+                    "value": 0
+                }
+            },
+            "AutoFish": {
+                "DelayBeforeCatch": 3500,
+                "DelayBeforeRecast": 1000,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoLoot": {
+                "AutoDisablePickupWhenAddItemExceedLimit": {
+                    "toggled": false,
+                    "value": null
+                },
+                "AutoPickup": {
+                    "toggled": true,
+                    "value": null
+                },
+                "AutoTreasure": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Chest": true,
+                "DelayTime": 425,
+                "DelayTimeFluctuation": 425,
+                "Investigate": true,
+                "Others": true,
+                "UseDelayTimeFluctuation": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTalk": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "FastDialog": {
+                    "toggled": true,
+                    "value": null
+                },
+                "SkipCutscene": false,
+                "TimeSpeedup": 7.0
+            },
+            "ChestTeleport": {
+                "Key": 219
+            },
+            "CustomTeleport2.0": {
+                "AutoTeleport": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": false,
+                    "value": 191
+                },
+                "IntelligentTeleport": true,
+                "MaxRandomDelay": 50,
+                "MinRandomDelay": 40,
+                "RandomDelay": true
+            },
+            "ESP": {
+                "DrawDistance": true,
+                "DrawHealth": true,
+                "DrawName": true,
+                "DrawTracerMode": {
+                    "name": "Line",
+                    "value": 1
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Fill": true,
+                "FillTransparency": 0.550000011920929,
+                "Filters": {
+                    "Chest": {
+                        "Common Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Crude Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Exquisite Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Luxurious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Precious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Remarkable Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Collection": {
+                        "Geo Sigil": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Radiant Spincrystal": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Featured": {
+                        "Dendroculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Item Drops": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Key Sigil I": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Sacred Seal": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Shrine Of Depth": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    }
+                },
+                "FontSize": 20,
+                "GlobalBoxColor": {
+                    "toggled": true,
+                    "value": 4282908416
+                },
+                "GlobalFontColor": {
+                    "toggled": true,
+                    "value": 4294967295
+                },
+                "GlobalLineColor": {
+                    "toggled": true,
+                    "value": 4278196991
+                },
+                "GlobalRectColor": {
+                    "toggled": true,
+                    "value": 4288045586
+                },
+                "HideCompleted": true,
+                "MiddleScreenTracer": true,
+                "Range": 200.0
+            },
+            "EnhancedMovement": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": 89
+                },
+                "JumpBoost": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "FallControl": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "Flycloak Modifer": {
+                "FlycloakType": {
+                    "name": "Feasting",
+                    "value": 6
+                }
+            },
+            "Flycloak Modifier": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "General": {
+                "FPS": {
+                    "FpsMove": true,
+                    "FpsShow": false
+                },
+                "MenuKey": 192,
+                "SelectedModule": 4
+            },
+            "GodMode": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": 78
+                },
+                "NoFall": {
+                    "toggled": false,
+                    "value": 78
+                },
+                "Undead": {
+                    "toggled": false,
+                    "value": 78
+                }
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PacketReplacement": true
+            },
+            "InteractiveMap": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Filters": {
+                    "Scene3": {
+                        "ArchaicStone": true,
+                        "Dendroculus": true,
+                        "KeySigilII": true,
+                        "KeySigilIII": true,
+                        "KeySigilIV": true,
+                        "SacredSeal": true
+                    }
+                }
+            },
+            "MapTeleport": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": 188
+                },
+                "Key": 85
+            },
+            "Misc": {
+                "PreventScreenshot": {
+                    "Enabled": true
+                }
+            },
+            "NoCD": {
+                "AbilityReduce": {
+                    "toggled": true,
+                    "value": null
+                },
+                "InstantBow": {
+                    "toggled": false,
+                    "value": null
+                },
+                "TimerReduce": 1.0010000467300415,
+                "UtimateMaxEnergy": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoClip": {
+                "AntiDragBack": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": false,
+                    "value": 73
+                },
+                "Speed": 4.0
+            },
+            "OculiTeleport": {
+                "Key": 221
+            },
+            "OpenTeam": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "Player": {
+                "AutoRun": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                }
+            },
+            "QuestTeleport": {
+                "Key": 220,
+                "QuestTP": {
+                    "toggled": false,
+                    "value": 190
+                }
+            },
+            "RapidFire": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": 84
+                },
+                "MultiHit": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Randomize": {
+                    "toggled": true,
+                    "value": null
+                },
+                "maxMultiplier": 4,
+                "minMultiplier": 2
+            },
+            "Settings": {
+                "Language": {
+                    "Language": "SimplifiedChinese"
+                }
+            },
+            "SkipEnhanceAnimation": {
+                "Enabled": true
+            },
+            "Visuals": {
+                "Browser": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "CameraZoom": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    },
+                    "FovValue": 100.0,
+                    "MaxZoom": 1.100000023841858,
+                    "MinZoom": 0.8500000238418579,
+                    "SetFov": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "ChestIndicator": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "EnablePeeking": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    }
+                },
+                "FPSUnlocker": {
+                    "Enabled": true,
+                    "Fps": 60,
+                    "Limit": true
+                },
+                "GMicon": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    }
+                },
+                "MenuUnlocker": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "NoFog": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "ProfileChanger": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    },
+                    "NickName": {
+                        "toggled": true,
+                        "value": "<color=#ff0bf5>D</color><color=#e816e1>a</color><color=#d020cd>r</color><color=#b92bb9>k</color><color=#a236a6>L</color><color=#8a4092>i</color><color=#734b7e>n</color><color=#5b556a>k</color>"
+                    },
+                    "UID": {
+                        "toggled": true,
+                        "value": "<color=#09ab98>B</color><color=#18a08f>k</color><color=#289685>e</color><color=#378b7c>b</color><color=#478072>i</color><color=#567669>#</color><color=#656b5f>L</color><color=#756056>i</color><color=#84564c>n</color><color=#934b43>k</color><color=#a34039>C</color><color=#b23530>o</color><color=#c22b26>n</color><color=#d1201d>f</color><color=#e01513>i</color><color=#f00b0a>g</color>"
+                    },
+                    "UIDsize": 15
+                }
+            }
+        },
+        "TeleportMode": {
+            "About": {
+                "IsFirstTime": false
+            },
+            "AutoLoot": {
+                "AutoDisablePickupWhenAddItemExceedLimit": {
+                    "toggled": false,
+                    "value": null
+                },
+                "AutoPickup": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DelayTime": 400,
+                "DelayTimeFluctuation": 350,
+                "UseCustomRange": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTalk": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "SkipCutscene": false
+            },
+            "ChestTeleport": {
+                "Key": 219
+            },
+            "CustomTeleport2.0": {
+                "AutoTeleport": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                },
+                "IntelligentTeleport": true,
+                "MaxRandomDelay": 45,
+                "MinRandomDelay": 35,
+                "RandomDelay": true
+            },
+            "ESP": {
+                "DrawDistance": true,
+                "DrawHealth": true,
+                "DrawName": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Fill": true,
+                "FillTransparency": 1.0,
+                "Filters": {
+                    "Chest": {
+                        "Common Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Crude Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Exquisite Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Luxurious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Precious Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Remarkable Chest": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Search Point": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    },
+                    "Featured": {
+                        "Anemoculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Crimson Agate": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Dendroculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Electroculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Geoculus": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Item Drops": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Key Sigil I": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Lumenspar": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Sacred Seal": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Shrine Of Depth": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        },
+                        "Time Trial Challenge": {
+                            "color": 4286085240,
+                            "enabled": true,
+                            "hotkey": null
+                        }
+                    }
+                },
+                "GlobalBoxColor": {
+                    "toggled": true,
+                    "value": 4294967295
+                },
+                "GlobalFontColor": {
+                    "toggled": true,
+                    "value": 4294967295
+                },
+                "GlobalLineColor": {
+                    "toggled": true,
+                    "value": 4294967295
+                },
+                "GlobalRectColor": {
+                    "toggled": true,
+                    "value": 4294967295
+                },
+                "HideCompleted": true,
+                "MiddleScreenTracer": true,
+                "Range": 200.0
+            },
+            "General": {
+                "FPS": {
+                    "FpsMove": true
+                },
+                "MenuKey": 192,
+                "SelectedModule": 3
+            },
+            "GodMode": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "NoFall": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Undead": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PacketReplacement": true
+            },
+            "KillAura": {
+                "AttackDelay": 750,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "InstantDeathMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Range": 10.0,
+                "RepeatDelay": 1500
+            },
+            "MapTeleport": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": 188
+                }
+            },
+            "MobVacuum": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoClip": {
+                "AntiDragBack": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "OculiTeleport": {
+                "Key": 221
+            },
+            "QuestTeleport": {
+                "Key": 220,
+                "QuestTP": {
+                    "toggled": true,
+                    "value": 190
+                }
+            },
+            "Settings": {
+                "Language": {
+                    "Language": "SimplifiedChinese"
+                }
+            },
+            "VacuumLoot": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MobDropRadius": 10.0,
+                "Radius": 5.0
+            },
+            "Visuals": {
+                "ProfileChanger": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    },
+                    "UID": {
+                        "toggled": true,
+                        "value": "<color=#09ab98>B</color><color=#18a08f>k</color><color=#289685>e</color><color=#378b7c>b</color><color=#478072>i</color><color=#567669>#</color><color=#656b5f>L</color><color=#756056>i</color><color=#84564c>n</color><color=#934b43>k</color><color=#a34039>C</color><color=#b23530>o</color><color=#c22b26>n</color><color=#d1201d>f</color><color=#e01513>i</color><color=#f00b0a>g</color>"
+                    },
+                    "UIDWaterMarkPrefix": true
+                }
+            }
+        }
+    },
+    "shared": {
+        "General": {
+            "Theme": {
+                "DefaultTheme": "Shadow"
+            },
+            "WaitDelayInit": {
+                "InitializationDelay": 30000
+            }
+        },
+        "InteractiveMap": {
+            "LastUserID": 173492239,
+            "accounts": {
+                "173492239": {
+                    "completed_points": {
+                        "3": {
+                            "17": [
+                                {
+                                    "complete_timestamp": 1677915034767,
+                                    "point_id": 3948
+                                },
+                                {
+                                    "complete_timestamp": 1677917329812,
+                                    "point_id": 4733
+                                },
+                                {
+                                    "complete_timestamp": 1677922134278,
+                                    "point_id": 4878
+                                },
+                                {
+                                    "complete_timestamp": 1677922157073,
+                                    "point_id": 4881
+                                },
+                                {
+                                    "complete_timestamp": 1677924331609,
+                                    "point_id": 28837
+                                }
+                            ],
+                            "44": [
+                                {
+                                    "complete_timestamp": 1677926662768,
+                                    "point_id": 890
+                                },
+                                {
+                                    "complete_timestamp": 1677926634602,
+                                    "point_id": 899
+                                },
+                                {
+                                    "complete_timestamp": 1677917531633,
+                                    "point_id": 1894
+                                }
+                            ],
+                            "45": [
+                                {
+                                    "complete_timestamp": 1677917711688,
+                                    "point_id": 4928
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "fixed_points": {
+                "3": {
+                    "403": [
+                        {
+                            "point_id": 29149,
+                            "x_pos": -2594.931884765625,
+                            "y_pos": -858.2550048828125
+                        },
+                        {
+                            "point_id": 29150,
+                            "x_pos": -2726.743896484375,
+                            "y_pos": -637.0020141601563
+                        },
+                        {
+                            "point_id": 29233,
+                            "x_pos": -2740.47900390625,
+                            "y_pos": -717.6290283203125
+                        }
+                    ]
+                }
+            }
+        },
+        "PatternScanner": {
+            "m_CheckSumTimestamp": {
+                "UnityPlayer.dll": 133214292840000000,
+                "UserAssembly.dll": 133214292840000000
+            }
+        }
+    }
+}
